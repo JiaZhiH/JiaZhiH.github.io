@@ -1,11 +1,11 @@
 # Basic
 title: 心海
-subtitle: 个人站
-description: 只要你内心是善良的，对错都是别人的事
+subtitle: 只要你内心是善良的，对错都是别人的事
+description: 欢迎来来到我的博客
 # 头像里面的标题
 avatarTitle: Hjz
 # 头像里面的描述
-avatarDesc: iOS / 斗鱼主播
+avatarDesc: iOS
 url: "http://jiazhih.github.io"
 
 # Comment
@@ -15,7 +15,7 @@ comment:
 
 # Social
 social:
-    weibo: _Hjz丶
+    weibo: HearOtSea
     github: JiaZhiH
     # twitter: 
     mail: 532289567@qq.com
