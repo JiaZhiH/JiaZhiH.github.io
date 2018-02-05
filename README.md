@@ -2,7 +2,7 @@
 
 #### iOS 开发攻城狮一枚
 
-#### [斗鱼恰鸡直播：2124761](https://www.douyu.com/2124761)
+#### [斗鱼恰鸡直播间：2124761](https://www.douyu.com/2124761)
 
 #### [博客地址：http://xiaoxinhai.com](http://xiaoxinhai.com)
 
