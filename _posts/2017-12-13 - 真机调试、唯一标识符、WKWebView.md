@@ -1,13 +1,13 @@
-# 2017-12-13 - 真机调试、唯一标识符、WKWebView
-<!-----
+---
 layout: post
 title: "真机调试、唯一标识符、WKWebView"
 date: 2017.12.13
 tag: iOS 总结 
---- -->
+---
+
 [TOC]
 
-<!-- more -->
+
 ## 真机调试问题
 
 ```
@@ -22,6 +22,7 @@ You may create up to 10 App IDs every 7 days.
 - 目前在项目中使用的比较多的也就数 IDFV 了,其他的几个基本都被苹果淘汰了.
 同时关于 UUID ,因为保证对在同一时空中的所有机器都是唯一的,所以在程序安装的时候生成唯一的 UUID 并且保存在 keychain 中,以这个唯一的 UUID 作为唯一标识符,就可以用于判断唯一设备.变相的作为 UDID 的用法
 - [iOS-理解 : UDID、UUID、IDFA、IDFV](http://www.jianshu.com/p/b810d7e007ad)
+
 ## XIB 报错
 ```
 error: Illegal Configuration: Compiling IB documents for earlier than iOS 7 is no longer supported.

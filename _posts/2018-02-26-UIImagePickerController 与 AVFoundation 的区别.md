@@ -1,14 +1,13 @@
-# 2018-02-26-UIImagePickerController 与 AVFoundation 的区别
-<!-----
+---
 layout: post
 title: "UIImagePickerController 与 AVFoundation 的区别"
 date: 2018.02.26
 tag: iOS 总结
------>
+---
 
-[TOC]
 
-<!-- more -->
+
+
 ## UIImagePickerController 与 AVFoundation 的区别
 今天在一个iOS 交流群里看到有人说
 
@@ -30,6 +29,8 @@ emmm...这个是音频的，群里的问题是关于相册的，那我们来看�
 以下这篇文章说的比较片面，最主要是个大概的了解
 
 - [iOS 上的相机捕捉 UIImagePickerController 与 AVFoundation的区别](http://blog.csdn.net/leikezhu1981/article/details/44493659)
+
+<!-- more -->
 
 所以我们最后可以总结：
 

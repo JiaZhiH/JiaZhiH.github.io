@@ -1,13 +1,12 @@
-# 2017-12-11 - WKWebView 隐藏状态栏和白名单
-<!-----
+---
 layout: post
 title: "WKWebView 隐藏状态栏和白名单"
 date: 2017.12.11
 tag: iOS 总结 
---- -->
+---
 [TOC]
 
-<!-- more -->
+
 ## 隐藏状态栏
 -  A push B 隐藏 B 界面的状态栏
  - 在 viewDidLoad 方法添加以下代码：
@@ -22,6 +21,8 @@ tag: iOS 总结
     return YES;//隐藏为YES，显示为NO  
 }  
 ```
+
+<!-- more -->
 
 -  所有界面全部隐藏状态栏![](media/15129622345321/15129636745664.jpg)
  

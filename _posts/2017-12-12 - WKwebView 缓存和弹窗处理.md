@@ -1,13 +1,12 @@
-# 2017-12-12 - WKwebView 缓存和弹窗处理
-<!-----
+---
 layout: post
 title: "WKWebView 缓存和弹窗处理"
 date: 2017.12.12
 tag: iOS 总结 
---- -->
+---
 
 
-<!-- more -->
+
 - WKWebView 缓存问题：
  - [WKWebView的缓存问题以及如何正确清理缓存](http://blog.csdn.net/Deft_MKJing/article/details/78548162)
  

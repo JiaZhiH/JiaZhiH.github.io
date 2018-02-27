@@ -1,14 +1,13 @@
-# 2017-12-20 - 热云 TrackingIO
-<!-----
+---
 layout: post
 title: "热云 TrackingIO"
 date: 2017.12.20
 tag: iOS 总结 
---- -->
+---
 
 [TOC]
 
-<!-- more -->
+
 ## 项目中证书到期，如何更新？
 - [ios证书，描述文件创建以及证书过期的处理](http://www.jianshu.com/p/22fe4a78a67d)
 
