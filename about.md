@@ -34,6 +34,13 @@ title: iOS SDK 攻城狮
 
 <p>
 
+<p><a target="_blank" href='http://xiaoxinhai.com'>博客地址：https://hearotsea.github.io</a>
+<p>
+
+<p><a target="_blank" href='http://xiaoxinhai.com'>博客地址：http://jzhih.coding.me/JzhiH/</a>
+<p>
+
+<p>
 <a target="_blank" href='https://www.douyu.com/2124761'>斗鱼恰鸡直播间：2124761</a>
 
 <p>
