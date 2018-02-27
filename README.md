@@ -8,6 +8,8 @@
 
 #### [Jeklly 博客地址：http://xiaoxinhai.com](http://xiaoxinhai.com)
 
+#### [Mweb 自动生成的博客：https://hearotsea.github.io](https://hearotsea.github.io)
+
 #### 搭建这个博客是为了学习更多的 🧀🧀🧀
 
 #### 坐标武汉青山，欢迎来怼 👻👻👻
