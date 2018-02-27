@@ -4,7 +4,9 @@
 
 #### [斗鱼恰鸡直播间：2124761](https://www.douyu.com/2124761)
 
-#### [博客地址：http://xiaoxinhai.com](http://xiaoxinhai.com)
+#### [Hexo 博客地址：http://jzhih.coding.me/JzhiH/](http://jzhih.coding.me/JzhiH/)
+
+#### [Jeklly 博客地址：http://xiaoxinhai.com](http://xiaoxinhai.com)
 
 #### 搭建这个博客是为了学习更多的 🧀🧀🧀
 
